@@ -10,3 +10,4 @@ public:
 protected:
 	double radius;
 };
+
